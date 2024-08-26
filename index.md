@@ -28,7 +28,7 @@ The ABAP Code Analyzer Framework is a powerful tool designed to analyze ABAP (Ad
 
 ## Upcoming Feature: Dataflow Analysis
 
-We are excited to announce that we are working on implementing a dataflow analysis feature. This enhancement will significantly improve the accuracy and depth of our security scans.
+We are excited mdto announce that we are working on implementing a dataflow analysis feature. This enhancement will significantly improve the accuracy and depth of our security scans.
 
 ### What is Dataflow Analysis?
 
@@ -48,7 +48,16 @@ This feature will enable the framework to:
 - Detect complex vulnerabilities that simple pattern matching might miss.
 - Offer more detailed and actionable reports on potential security issues.
 
-We're working hard to integrate this feature and will update the framework once it's ready. Stay tuned for updates!
+## Advanced Private Version
+
+We are excited to announce that a more advanced version of the ABAP Code Analyzer is available as private software. This enhanced version includes:
+
+- Over 250 security checks for comprehensive code analysis
+- Advanced data flow analysis for more accurate vulnerability detection
+- Additional reporting formats and integration options
+- Priority support and regular updates
+
+For more information about the advanced private version, please contact RedRays, Inc. at support@redrays.io.
 
 ## Prerequisites
 
