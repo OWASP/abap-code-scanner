@@ -53,7 +53,6 @@ This feature will enable the framework to:
 We are excited to announce that a more advanced version of the ABAP Code Analyzer is available as private software. This enhanced version includes:
 
 - Over 250 security checks for comprehensive code analysis
-- Advanced data flow analysis for more accurate vulnerability detection
 - Additional reporting formats and integration options
 - Priority support and regular updates
 
