@@ -1,8 +1,8 @@
-# ABAP Code Scanner Framework
+# ABAP Code Analyzer Framework
 
 ## Overview
 
-The ABAP Code Scanner Framework is a powerful tool designed to analyze ABAP (Advanced Business Application Programming) code for potential security vulnerabilities, code quality issues, and best practice violations. This framework provides a flexible and extensible way to scan ABAP code and generate comprehensive reports on various aspects of code security and quality.
+The ABAP Code Analyzer Framework is a powerful tool designed to analyze ABAP (Advanced Business Application Programming) code for potential security vulnerabilities, code quality issues, and best practice violations. This framework provides a flexible and extensible way to scan ABAP code and generate comprehensive reports on various aspects of code security and quality.
 
 ## Features
 
@@ -61,7 +61,7 @@ We're working hard to integrate this feature and will update the framework once 
 
 ## Usage
 
-To run the ABAP Code Scanner:
+To run the ABAP Code Analyzer:
 
 ```
 python main.py path/to/abap/code/dir
@@ -120,7 +120,7 @@ On Unix-like systems:
 
 ## Contributing
 
-Contributions to the ABAP Code Scanner Framework are welcome! Please feel free to submit pull requests, create issues or spread the word.
+Contributions to the ABAP Code Analyzer Framework are welcome! Please feel free to submit pull requests, create issues or spread the word.
 
 ## License
 
