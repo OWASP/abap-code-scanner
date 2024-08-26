@@ -1,2 +1,2 @@
 ### Leaders
-* [Vahagn Vardanian](mailto:Vahagn.Vardanian22@owasp.org)
+* [Vahagn Vardanian](https://linkedin.com/in/vahagnv)
