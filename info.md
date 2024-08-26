@@ -1,4 +1,4 @@
-### ABAP Code Analyzer Information
+### ABAP Code Scanner Information
 * [Incubator Project](https://owasp.org/www-project-abap-code-analyzer/)
 * [Type of Project: Tool](https://owasp.org/projects/)
 * [Version 0.1.0](#)
