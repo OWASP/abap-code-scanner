@@ -39,7 +39,15 @@ This feature will enable the framework to:
 - Detect complex vulnerabilities that simple pattern matching might miss.
 - Offer more detailed and actionable reports on potential security issues.
 
-We're working hard to integrate this feature and will update the framework once it's ready. Stay tuned for updates!
+## Advanced Private Version
+
+We are excited to announce that a more advanced version of the ABAP Code Scanner is available as private software. This enhanced version includes:
+
+- Over 250 security checks for comprehensive code analysis
+- Additional reporting formats and integration options
+- Priority support and regular updates
+
+For more information about the advanced private version, please contact RedRays, Inc. at support@redrays.io.
 
 ## Prerequisites
 
