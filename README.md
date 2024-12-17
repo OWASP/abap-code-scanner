@@ -1,5 +1,11 @@
 # ABAP Code Scanner
 
+🚀 New Generation Released!
+We are thrilled to announce the next generation of the ABAP Code Scanner, featuring enhanced capabilities and better performance for identifying security vulnerabilities, coding errors, and potential performance issues in your ABAP (Advanced Business Application Programming) code. This version is a major upgrade that provides deeper analysis and more accurate results. Get started now and elevate your code security with the latest improvements.
+
+For more details and to use the tool directly, visit the official ABAP Code Scanner page.
+
+
 ## Overview
 
 The ABAP Code Scanner is a powerful tool designed to analyze ABAP (Advanced Business Application Programming) code for potential security vulnerabilities, code quality issues, and best practice violations. This provides a flexible and extensible way to scan ABAP code and generate comprehensive reports on various aspects of code security and quality.
