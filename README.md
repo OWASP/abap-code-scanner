@@ -102,7 +102,7 @@ run_tests.bat
 
 ## Contributing
 
-Pull requests are welcome - new checks, test cases, bug fixes and docs all help. See [CONTRIBUTING.md](CONTRIBUTING.md) and please follow the OWASP Code of Conduct.
+Pull requests are welcome new checks, test cases, bug fixes and docs all help. See [CONTRIBUTING.md](CONTRIBUTING.md) and please follow the OWASP Code of Conduct.
 
 ## Security
 
